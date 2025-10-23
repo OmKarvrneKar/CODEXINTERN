@@ -1,0 +1,8 @@
+"""
+requirements.txt removed per user request. The original requirements were:
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+"""
